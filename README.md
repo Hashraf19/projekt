@@ -1,3 +1,3 @@
 # projekt
 app
-##Jeg har gået på HTX 
+**Fra HTX til RUC** 
